@@ -2,6 +2,8 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system enabling grounded, high-relevance movie question answering using vector search and reranker optimization.
 
+![image alt](https://github.com/ferdianfirera/ChatbotRAG-Top1000IMDbMovies/blob/f0e5405bfbad5b4f02cf02b061b6e5a0a8784f2c/Screenshot%202026-03-04%20154753.png)
+
 ---
 
 
